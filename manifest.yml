@@ -1,0 +1,10 @@
+---
+name: Owens Desktop
+description: |-
+  **Owens Desktop** provides a remote desktop to one or more compute nodes on
+  the Owens cluster at the Ohio Supercomputer Center (OSC).
+icon: fa://desktop
+category: Desktops
+subcategory: Interactive HPC
+role: ihpc
+url: /pun/sys/vncsim/%{app_token}/sessions

@@ -1,0 +1,5 @@
+#!/bin/bash -l
+
+# Start up desktop
+DESKTOP_ROOT="${ROOT}/bc_desktop/template"
+ROOT="${DESKTOP_ROOT}" "${DESKTOP_ROOT}/xstartup"

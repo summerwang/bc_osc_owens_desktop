@@ -1,0 +1,18 @@
+title: 'Owens Desktop'
+compute:
+  - name: 'Owens Desktop'
+    batch: 'owens'
+    node:
+      - type: 'any'
+        ppn: 28
+        desc: >
+          Choose any type of compute node. This reduces the wait time as there
+          are no node specific requirements.
+      - type: 'hugemem'
+        ppn: 48
+        desc: >
+          This node has 1.5TB of available RAM as well as 48 cores. There are
+          16 of these nodes on Owens.
+    pbs:
+      envvars:
+        DESKTOP: 'mate'

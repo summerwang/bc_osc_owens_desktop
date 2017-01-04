@@ -1,0 +1,21 @@
+{
+  "name": "bc_osc_ownes_desktop",
+  "authors": [
+    "Jeremy Nicklas <jnicklas@osc.edu>"
+  ],
+  "description": "Batch Connect - OSC Owens Desktop",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/OSC/bc_osc_owens_desktop",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bc_desktop": "git://github.com/OSC/bc_desktop.git#0.0.x"
+  }
+}
