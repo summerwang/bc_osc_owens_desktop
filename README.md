@@ -1,5 +1,8 @@
 # Batch Connect - OSC Owens Desktop
 
+![GitHub Release](https://img.shields.io/github/release/osc/bc_osc_owens_desktop.svg)
+![GitHub License](https://img.shields.io/github/license/osc/bc_osc_owens_desktop.svg)
+
 A VNCSim app designed for OSC OnDemand that launches a Desktop within an Owens
 batch job.
 
