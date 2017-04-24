@@ -1,0 +1,28 @@
+{
+  "name": "bc_desktop",
+  "homepage": "https://github.com/OSC/bc_desktop",
+  "authors": [
+    "Jeremy Nicklas <jnicklas@osc.edu>"
+  ],
+  "description": "Batch Connect - Desktop",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "0.0.3",
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.3",
+    "commit": "0ed743b0a32c782822af7ee0e6966ff1cda644fd"
+  },
+  "_source": "git://github.com/OSC/bc_desktop.git",
+  "_target": "0.0.x",
+  "_originalSource": "git://github.com/OSC/bc_desktop.git"
+}
