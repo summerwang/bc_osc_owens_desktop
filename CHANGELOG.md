@@ -1,5 +1,7 @@
 ## Unreleased
 
+## 0.0.4 (2017-05-11)
+
 Features:
 
   - added `vis` support to Owens desktop
